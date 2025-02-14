@@ -51,12 +51,14 @@
 
 *- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original?*
 
-*Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
+![pong](assets/ConceptArt-1.jpg)
+![pong](assets/ConceptArt-2.jpg)
+![pong](assets/ConceptArt-3.jpg)
 
 ---
 
 ## 4. Tela Digital do Jogo  
-[![pong](pong.png)]
+![pong](assets/pong.png)
 
 *- Como o concept foi adaptado para o formato digital?*
 
