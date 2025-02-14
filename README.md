@@ -69,10 +69,17 @@
 ---
 
 ## 5. Reflexão e Aprendizados  
-*Cada membro da dupla deve responder individualmente:*  
+*Cada membro da dupla deve responder individualmente:* 
 
+### MARCELA COSTA
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
-2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
+   O maior desafio foi definir apenas uma ideia, pensamo em várias possibilidades para reinventar o Pong, mas só poderiamos realizar uma, então selecionamos o que concordamos no que seria mais interessante e chegamos no resultado final. Outro desafio que enfrentei foi me desafiar no Figma, eu nunca tinha utilizado a ferramenta e decedi me desafiar, no começo tive um pouco de dificuldade, mas no meio do processo começei a gostar bastante e consegui realizar a tarefa.
+2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+   Consegui desenvolver a minha habilidade de tomada de decisão por conta do pouco tempo que tivemos para esboçar a ideia e chegar em um resultado final, também desenvolvi a minha habilidade de pesquisa ao realizar uma análise completa do Pong de acordo com MDA e aprendi a mexer e utilizar o Figma.
+
+### ARTHUR MARQUES
+1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade? 
 
 ---
 
