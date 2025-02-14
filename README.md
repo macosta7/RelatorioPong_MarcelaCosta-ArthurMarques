@@ -3,7 +3,7 @@
 
 
 ## 1. Introdução  
-*Descreva brevemente o objetivo da atividade, mencionando a proposta de reinvenção do jogo Pong e a abordagem escolhida pela dupla.*
+
   Com base nos estudos solicitados sobre o Framework MDA, Concept Art e Game Design, tivemos que explorar a fundo a história, estrutura e funcionamento do jogo Pong Game. Diante disso, recebemos o desafio de replicar as características básicas do jogo, mantendo sua essência. No entanto, tínhamos o dever de reestruturá-lo utilizando metodologias de UX Design para jogos, tornando-o mais interativo e cativante.
  Decidimos explorar as metodologias do UX Desing que cativam o cliente a experiencia do produto, entao nossas mudanças foram voltadas para estimular as emoções dos usuários. 
  Após a aula que tivemos com a professora de Desing, Fabiana Martins, tivemos muitas inspirações e alteramos alguns aspectos como: cenário dinâmico, movimentção, atchiviments, sistema de conquista, inventario, progreção de dificuldade e sons.
