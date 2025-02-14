@@ -24,10 +24,10 @@
     - Placar de pontuação disponível na tela do jogo com contagem máxima de 10 pontos.
     
 - **ESTÉTICA**
-- O jogador acompanha o placar do jogo com um objetivo de de realizar 10 pontos, possibilitando que ele administre seu foco e habilidades durante a partida dependendo da sua vantagem ou desvantagem sobre o oponente.
-- O jogo possibilita que o jogador se entretenha com um BOT, como adversário ou ate mesmo a possibilidade de jogar com outro player, produzindo uma experiencia imersiva como competitividade.
-- De acordo com a duração da partida o jogador se entretém com o aumento progressivo da velocidade cuja a “bola” se move.
-- a praticidade e simplicidade do grafico
+    - O jogador acompanha o placar do jogo com um objetivo de de realizar 10 pontos, possibilitando que ele administre seu foco e habilidades durante a partida dependendo da sua vantagem ou desvantagem sobre o oponente.
+    - O jogo possibilita que o jogador se entretenha com um BOT, como adversário ou ate mesmo a possibilidade de jogar com outro player, produzindo uma experiencia imersiva como competitividade.
+    - De acordo com a duração da partida o jogador se entretém com o aumento progressivo da velocidade cuja a “bola” se move.
+    - É um jogo prático com gráficos simples.
 
 - # O  QUE TORNA O PONG ENVOLVENTE E JOGÁVEL?
     - É um jogo com regras simples e fácil de ser jogador.
