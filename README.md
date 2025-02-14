@@ -80,10 +80,13 @@
 ![pong](assets/pong.png)
 
 *- Como o concept foi adaptado para o formato digital?*
+    - Nós utilizamos o Figma para a criação do jogo no formato digital e descobrimos a ferramenta para podermos refinar o esboço que foi criado com a concept art. Desenhamos 3 telas do nosso jogo, duas delas representam o jogo em funcionamento em que de acordo com a progressão da altura que o personagem vai alcançando no jogo, o fundo vai se transformando, o que deixa o jogo mais interativo e dinâmico, estimulando o jogador a continuar jogando para explorar as novas telas. Também criamos uma tela de skins no formato digital, com isso a ideia ficou mais clara e mais fácil de entender o que o jogo quer passar, com a utilização do caracter "?" o jogador fica curioso para descobrir qual será a próxima skin que ele irá ganhar e para isso ele terá que continuar jogando o jogo. 
 
-*- Quais elementos visuais foram aprimorados?*  
+*- Quais elementos visuais foram aprimorados?*
+    - Ao tornar a concept art uma realidade no Figma, a interface do jogo ficou mais organizada e limpa, facilitando o usuário a entender o que ele jogará. Também aprimoramos o cenário e os ícones visuais, todos foram pensados em expressar profundidade e trazer vida para o jogo, o cenário foi pensado em mostrar que de acordo com a altura que o jogador atinge o mapa vai evoluindo junto, indicando que o personagem está evoluindo no jogo, já os ícones ficaram mais animados e estimulam a explorar o jogo.
 
 *- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
+    - As cores sutis e suaves no fundo da tela destacam a sensação de progressão de altura e garantem que o jogador sinta que ele está progredindo de acordo com a altura que ele está atingindo. Os ícones e possuem formas simples e cores chamativas para tornar o design intuitivo garantindo que o jogador entenda rapidamente o jogo. A possibilidade da personalização do personagem e do trampolim com cores diferentes também foram pensadas para chamar a atenção do usuário nos elementos principais do jogo, o próprio jogador e o trampolim que é aonde ele ficaram pulando. Com isso, a escolha de cores suaves no fundo, ícones simples e chamativos e os elementos principais do jogo em destaque, contruibuem para que o usuário entenda o jogo de uma maneira simples e consiga se entreter com a mudança do cenário estimulando-o a continuar a jogar.  
 
 ---
 
