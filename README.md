@@ -8,7 +8,35 @@
 ---
 
 ## 2. Pesquisa e Análise Inicial  
-*Explique as principais características do **jogo original Pong**, considerando os três elementos do **Framework MDA** e responda: o que torna Pong um jogo envolvente e jogável? Quais são seus **elementos principais de diversão e desafio**?*
+# Principais Características
+
+- **MECÂNICA**
+    - O “Pong” é um jogo com uma tela que simula uma mesa de tênis virtual em que as “raquetes” são duas barras (uma no lado direito e outra na lado esquerdo).
+    - Os jogadores tem como objetivo evitar que a bolinha ultrapasse a sua “raquete”, caso isso aconteça, o jogador adversário ganha um ponto.
+    - A “raquete” é controlada pelo jogador com as telas cima e baixo (setinha para cima, setinha para baixo e W, S).
+    - O jogo tem um sistema de pontuação que a cada vez que o jogador não consegue “rebater” a bolinha, o jogador adversário ganha um ponto. O jogo acaba quando o primeiro jogador faz 10 pontos.
+    - A bolinha tem uma física em que quando ela bate na raquete de um jogador ela é ricocheteada na direção do outro jogador no mesmo ângulo em que ela bateu na raquete, caso o jogador não rebata a bola, a bolinha bate na parede e o ponto é contabilizado.
+    
+- **DINÂMICA**
+    - O  jogador se adapta à jogabilidade compreendendo os padrões de movimento da bola e desenvolvendo suas habilidades com as “raquetes”.
+    - De acordo com a duração da partida o jogador se entretém com o aumento progressivo da velocidade cuja a “bola” se move.
+    - O jogo disponibiliza dois modos de competição, uma versão multiplayer e outra contra o computador (ambos possuem a possibilidade de escolher 3 níveis de dificuldade, as quais determinaram a velocidade da “bola” ).
+    - Placar de pontuação disponível na tela do jogo com contagem máxima de 10 pontos.
+    
+- **ESTÉTICA**
+- O jogador acompanha o placar do jogo com um objetivo de de realizar 10 pontos, possibilitando que ele administre seu foco e habilidades durante a partida dependendo da sua vantagem ou desvantagem sobre o oponente.
+- O jogo possibilita que o jogador se entretenha com um BOT, como adversário ou ate mesmo a possibilidade de jogar com outro player, produzindo uma experiencia imersiva como competitividade.
+- De acordo com a duração da partida o jogador se entretém com o aumento progressivo da velocidade cuja a “bola” se move.
+- a praticidade e simplicidade do grafico
+
+- # O  QUE TORNA O PONG ENVOLVENTE E JOGÁVEL?
+    - É um jogo com regras simples e fácil de ser jogador.
+    - Ajuda no desenvolvimento do reflexo dos jogador.
+    - É um jogo dinâmico em que a cada “rebate” na bolinha a velocidade dela vai aumentando, o que estimula o jogador a continuar a se desafiando.
+    
+- # ELEMENTOS PRINCIPAIS DE DIVERSÃO E DESAFIO
+    - O fato que torna o jogo divertido é que a cada vez que os jogadores jogam eles passam a adquirir mais controle dos movimentos e começam a sentir uma sensação de evolução, um ponto muito importante que estimula os jogadores a continuarem buscando evolução dentro do jogo
+    - Como o Pong é um jogo dinâmico em que a cada vez que a bolinha é ricocheteada a sua velocidade aumenta, o jogador se sente desafiado e isso o estimula para ficar cada vez melhor no jogo
 
 ---
 
