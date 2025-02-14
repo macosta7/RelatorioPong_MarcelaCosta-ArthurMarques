@@ -56,7 +56,7 @@
 ---
 
 ## 4. Tela Digital do Jogo  
-*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
+[![pong](pong.png)]
 
 *- Como o concept foi adaptado para o formato digital?*
 
