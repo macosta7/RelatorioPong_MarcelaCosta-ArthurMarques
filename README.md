@@ -71,7 +71,8 @@
 *
 
 *- **Objetivo da Reinvenção:** 
-    -Nosso jogo busca estigar o instinto de curiosidade, disponibilizando um jogo completamente dinamico, criado para ofercer multiplos cenarios, desafios, 
+    
+  -Nosso jogo busca estigar o instinto de curiosidade, disponibilizando um jogo completamente dinamico, criado para ofercer multiplos cenarios, desafios, 
 
 ![pong](assets/ConceptArt-1.jpg)
 ![pong](assets/ConceptArt-2.jpg)
