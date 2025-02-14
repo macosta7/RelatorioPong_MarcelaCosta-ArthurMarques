@@ -8,7 +8,7 @@
 ---
 
 ## 2. Pesquisa e Análise Inicial  
-# Principais Características
+### Principais Características
 
 - **MECÂNICA**
     - O “Pong” é um jogo com uma tela que simula uma mesa de tênis virtual em que as “raquetes” são duas barras (uma no lado direito e outra na lado esquerdo).
@@ -29,12 +29,12 @@
     - De acordo com a duração da partida o jogador se entretém com o aumento progressivo da velocidade cuja a “bola” se move.
     - É um jogo prático com gráficos simples.
 
-- # O  QUE TORNA O PONG ENVOLVENTE E JOGÁVEL?
+- ### O  QUE TORNA O PONG ENVOLVENTE E JOGÁVEL?
     - É um jogo com regras simples e fácil de ser jogador.
     - Ajuda no desenvolvimento do reflexo dos jogador.
     - É um jogo dinâmico em que a cada “rebate” na bolinha a velocidade dela vai aumentando, o que estimula o jogador a continuar a se desafiando.
     
-- # ELEMENTOS PRINCIPAIS DE DIVERSÃO E DESAFIO
+- ### ELEMENTOS PRINCIPAIS DE DIVERSÃO E DESAFIO
     - O fato que torna o jogo divertido é que a cada vez que os jogadores jogam eles passam a adquirir mais controle dos movimentos e começam a sentir uma sensação de evolução, um ponto muito importante que estimula os jogadores a continuarem buscando evolução dentro do jogo
     - Como o Pong é um jogo dinâmico em que a cada vez que a bolinha é ricocheteada a sua velocidade aumenta, o jogador se sente desafiado e isso o estimula para ficar cada vez melhor no jogo
 
@@ -72,9 +72,12 @@
 *Cada membro da dupla deve responder individualmente:* 
 
 ### MARCELA COSTA
-1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+**1. Quais foram os maiores desafios enfrentados durante o processo de criação?**
+   
    O maior desafio foi definir apenas uma ideia, pensamo em várias possibilidades para reinventar o Pong, mas só poderiamos realizar uma, então selecionamos o que concordamos no que seria mais interessante e chegamos no resultado final. Outro desafio que enfrentei foi me desafiar no Figma, eu nunca tinha utilizado a ferramenta e decedi me desafiar, no começo tive um pouco de dificuldade, mas no meio do processo começei a gostar bastante e consegui realizar a tarefa.
-2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+   
+**2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?**
+
    Consegui desenvolver a minha habilidade de tomada de decisão por conta do pouco tempo que tivemos para esboçar a ideia e chegar em um resultado final, também desenvolvi a minha habilidade de pesquisa ao realizar uma análise completa do Pong de acordo com MDA e aprendi a mexer e utilizar o Figma.
 
 ### ARTHUR MARQUES
