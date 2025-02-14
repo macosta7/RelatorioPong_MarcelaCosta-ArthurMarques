@@ -46,25 +46,28 @@
 ## 3. Proposta de Reinvenção  
 
 *- **Tema e Ambientação:** 
-    -O contexto do jogo foi alterado, renomeado como "Pong to Sky", o jogo agora consiste em apenas uma "paleta" que agora será uma cama elástica. Também alteramos a "bola" do jogo original por um personagem, o "stick guy";
-    -A tela inicial do jogo possui a ilustração do "Stick guy" em seu jardim de casa, em frente ao seu "pula-pula". o cenário é dinamico, então enquanto o usuário nao clicar no "pula-pula" para inicar o mapa, o céu estará cheio de movimentações como aves, aviões, nuvens, estrelas entre outros.  *
+    
+  -O contexto do jogo foi alterado, renomeado como "Pong to Sky", o jogo agora consiste em apenas uma "paleta" que agora será uma cama elástica. Também alteramos a "bola" do jogo original por um personagem, o "stick guy";
+  -A tela inicial do jogo possui a ilustração do "Stick guy" em seu jardim de casa, em frente ao seu "pula-pula". o cenário é dinamico, então enquanto o usuário nao clicar no "pula-pula" para inicar o mapa, o céu estará cheio de movimentações como aves, aviões, nuvens, estrelas entre outros.  *
 
 *- **Personagens ou Elementos Visuais:**
-    -Realizamos uma alteração completa do cenário, personagem e "raquetes";
-    -A antiga "bola" do jogo Pong agora é um personagem stick guy";
-    -O jogo possuirá apenas uma "aleta" que agora será uma cama elastica;
-    -O cenario agora é dinamico, de acordo com a progreçao do usuario durante na partida o persnagem passara por diversas ambientacoes caracteristicas da altura que o condiz no momento, tendo como exemplo, ao atingir 9400 m, altura padrao de voo para aeronaves, diversas aeronaves irao passar ao fundo da tela; 
-    -Agora teremos um sistema de conquista, ao qual funcionara de acordo com a altura maxima atingida pelo usuario, assim, diponibizando a opçao de alterar as skins do personagem, skins do "stick guy", emojis e skins para a cama elastica;
-    -Adicionamos os "coins", moedas que irao aparecer aleatoriamente no percorrer do jogo que contaram como pontos extra, que farao o personagem pular mais alto quando coletadas;
-    -Inimigos foram adicionados no jogo, durante a partida, inimogos como passaros, avioes, aliens (varia de acordo com a altura) irao atravessar o mapa no eixo.x em ambas as direcoes (direita e esquerda).*
+    
+  -Realizamos uma alteração completa do cenário, personagem e "raquetes";
+  -A antiga "bola" do jogo Pong agora é um personagem stick guy";
+  -O jogo possuirá apenas uma "aleta" que agora será uma cama elastica;
+  -O cenario agora é dinamico, de acordo com a progreçao do usuario durante na partida o persnagem passara por diversas ambientacoes caracteristicas da altura que o condiz no momento, tendo como exemplo, ao atingir 9400 m, altura padrao de voo para aeronaves, diversas aeronaves irao passar ao fundo da tela; 
+  -Agora teremos um sistema de conquista, ao qual funcionara de acordo com a altura maxima atingida pelo usuario, assim, diponibizando a opçao de alterar as skins do personagem, skins do "stick guy", emojis e skins para a cama elastica;
+  -Adicionamos os "coins", moedas que irao aparecer aleatoriamente no percorrer do jogo que contaram como pontos extra, que farao o personagem pular mais alto quando coletadas;
+  -Inimigos foram adicionados no jogo, durante a partida, inimogos como passaros, avioes, aliens (varia de acordo com a altura) irao atravessar o mapa no eixo.x em ambas as direcoes (direita e esquerda).*
     
 *- **Mudanças na Mecânica:**
-    -A ideia de Ping-Pong foi alterada porem mantendo a caracteristica central de que deve usar a "paleta" para nao perder o jogo, agora no nosso jogo, devemos subir o mais alto possivel, sem deixar que nosso personagem caia do trampolim ou ser atingido por inimgos durante o jogo e perca suas tres vidas;
-    -O placar de pontos agora é um contador, que mostra a altura do personagem;
-    -O usuario ira movimentar o personagem no eixo.x, e tera que administrar seus movimentos pois o personagem tera uma velocidade dinamica no eixo.y que progredira durante o jogo;
-    -A cama elastica movimentara no eixo.x, tambem tera uma velocidade dinamica que almenta durante o jogo;
-    -As coins iram almentar quantos metros o jogador pula, o ajudando a progredir no jogo, 
-    -Contador de vidas. 
+    
+  -A ideia de Ping-Pong foi alterada porem mantendo a caracteristica central de que deve usar a "paleta" para nao perder o jogo, agora no nosso jogo, devemos subir o mais alto possivel, sem deixar que nosso personagem caia do trampolim ou ser atingido por inimgos durante o jogo e perca suas tres vidas;
+  -O placar de pontos agora é um contador, que mostra a altura do personagem;
+  -O usuario ira movimentar o personagem no eixo.x, e tera que administrar seus movimentos pois o personagem tera uma velocidade dinamica no eixo.y que progredira durante o jogo;
+  -A cama elastica movimentara no eixo.x, tambem tera uma velocidade dinamica que almenta durante o jogo;
+  -As coins iram almentar quantos metros o jogador pula, o ajudando a progredir no jogo, 
+  -Contador de vidas. 
 *
 
 *- **Objetivo da Reinvenção:** 
