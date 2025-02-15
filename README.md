@@ -109,9 +109,11 @@
 ### ARTHUR MARQUES
 ***1. Quais foram os maiores desafios enfrentados durante o processo de criação?***
 
-  O maior desafio foi esboçar todas as ideias que tivemos em um espaço curto de papel, tinhamos muitas ideias e sempre tinha alguma linha de raciocinio que entrava em conflito com outa/outraas ja definidas, tomar frente do desenvolvimento do desemho fisico tambem mostrou como é dificil deixar um jogo pronto com apenas uma folha  como
+  O maior desafio foi esboçar todas as ideias que tivemos em um espaço curto de papel, tinhamos muitas ideias e sempre tinha alguma linha de raciocinio que entrava em conflito com outa/outraas ja definidas, tomar frente do desenvolvimento do desemho fisico tambem mostrou como é dificil deixar um jogo pronto com apenas uma folha.
 
 ***3. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?***
+  
+  Com  certeza estou orgulhoso dos meus desenho fisicos, fiquei muito feliz ao ver que consegui desenhar bem o jogo e mostar cada detalhe sobre 
 
   Seria otimo comentar que estou indo erealizar um projeto em pouco tempo,
 ---
