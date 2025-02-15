@@ -45,39 +45,31 @@
 
 ## 3. Proposta de Reinvenção  
 
-*- **Tema e Ambientação:** 
-    
-  -O contexto do jogo foi alterado, renomeado como "Pong to Sky", o jogo agora consiste em apenas uma "paleta" que agora será uma cama elástica. Também alteramos a "bola" do jogo original por um personagem, o "stick guy";
-  -A tela inicial do jogo possui a ilustração do "Stick guy" em seu jardim de casa, em frente ao seu "pula-pula". o cenário é dinamico, então enquanto o usuário nao clicar no "pula-pula" para inicar o mapa, o céu estará cheio de movimentações como aves, aviões, nuvens, estrelas entre outros.  *
+  - **Tema e Ambientação**
+    -O contexto do jogo foi alterado e renomeado para "Pong to Sky". Agora, o jogo consiste em apenas uma "paleta", que será representada por uma cama elástica. Além disso, a "bola" do jogo original foi substituída por um personagem, o "Stick Guy".
+    -A tela inicial do jogo apresenta uma ilustração do "Stick Guy" em seu jardim, em frente ao seu pula-pula. O cenário é dinâmico: enquanto o usuário não clicar no pula-pula para iniciar o jogo, o céu estará cheio de movimentação, como aves, aviões, nuvens, estrelas, entre outros elementos.
 
-*- **Personagens ou Elementos Visuais:**
-    
-  -Realizamos uma alteração completa do cenário, personagem e "raquetes";
-  -A antiga "bola" do jogo Pong agora é um personagem stick guy";
-  
-  -O jogo possuirá apenas uma "aleta" que agora será uma cama elastica;
-  
-  -O cenario agora é dinamico, de acordo com a progreçao do usuario durante na partida o persnagem passara por diversas ambientacoes caracteristicas da altura que o condiz no momento, tendo como exemplo, ao atingir 9400 m, altura padrao de voo para aeronaves, diversas aeronaves irao passar ao fundo da tela; 
-  
-  -Agora teremos um sistema de conquista, ao qual funcionara de acordo com a altura maxima atingida pelo usuario, assim, diponibizando a opçao de alterar as skins do personagem, skins do "stick guy", emojis e skins para a cama elastica;
-  
-  -Adicionamos os "coins", moedas que irao aparecer aleatoriamente no percorrer do jogo que contaram como pontos extra, que farao o personagem pular mais alto quando coletadas;
-  
-  -Inimigos foram adicionados no jogo, durante a partida, inimogos como passaros, avioes, aliens (varia de acordo com a altura) irao atravessar o mapa no eixo.x em ambas as direcoes (direita e esquerda). 
-    
-*- **Mudanças na Mecânica:**
-    
-  -A ideia de Ping-Pong foi alterada porem mantendo a caracteristica central de que deve usar a "paleta" para nao perder o jogo, agora no nosso jogo, devemos subir o mais alto possivel, sem deixar que nosso personagem caia do trampolim ou ser atingido por inimgos durante o jogo e perca suas tres vidas;
-  -O placar de pontos agora é um contador, que mostra a altura do personagem;
-  -O usuario ira movimentar o personagem no eixo.x, e tera que administrar seus movimentos pois o personagem tera uma velocidade dinamica no eixo.y que progredira durante o jogo;
-  -A cama elastica movimentara no eixo.x, tambem tera uma velocidade dinamica que almenta durante o jogo;
-  -As coins iram almentar quantos metros o jogador pula, o ajudando a progredir no jogo, 
-  -Contador de vidas. 
+  - **Personagens e Elementos Visuais**
+    - Realizamos uma alteração completa no cenário, no personagem e nas "raquetes".
+    - A antiga "bola" do jogo Pong agora é representada pelo personagem "Stick Guy".
+    - O jogo terá apenas uma "paleta", que será substituída por uma cama elástica.
+    - O cenário agora é dinâmico. De acordo com a progressão do usuário na partida, o personagem passará por diversas ambientações características da altura em que se encontra. Por exemplo, ao atingir 9.400 metros, que é a altitude padrão de voo para aeronaves, diversas aeronaves passarão ao fundo da tela.
+    - Foi implementado um sistema de conquistas, que funcionará de acordo com a altura máxima atingida pelo usuário. Assim, será possível desbloquear opções para alterar as skins do personagem (Stick Guy), emojis e skins para a cama elástica.
+    - Adicionamos coins (moedas) que aparecerão aleatoriamente ao longo do jogo. Elas contarão como pontos extras e farão o personagem pular mais alto ao serem coletadas.
+    - Inimigos foram adicionados ao jogo. Durante a partida, inimigos como pássaros, aviões e aliens (variando de acordo com a altura) atravessarão o mapa no eixo X, movimentando-se em ambas as direções (direita e esquerda).
+
+  - **Mudanças na Mecânica**
+    - A ideia original do Ping-Pong foi modificada, mas mantendo a característica central de que o jogador deve utilizar a "paleta" para não perder o jogo. Agora, o objetivo é subir o mais alto possível sem deixar que o personagem caia do trampolim ou seja atingido por inimigos, evitando perder suas três vidas.
+    - O placar de pontos agora funciona como um contador que mede a altura do personagem.
+    - O usuário poderá movimentar o personagem no eixo X e precisará administrar seus movimentos, pois a velocidade do personagem no eixo Y será dinâmica e aumentará ao longo do jogo.
+    - A cama elástica também se movimentará no eixo X e terá uma velocidade dinâmica que aumentará com o progresso do jogo.
+    - As coins permitirão que o jogador pule mais metros, ajudando na progressão do jogo.
+    - Implementamos um contador de vidas.
 *
 
 *- **Objetivo da Reinvenção:** 
     
-  -Nosso jogo busca estigar o instinto de curiosidade, disponibilizando um jogo completamente dinamico, criado para ofercer multiplos cenarios, desafios, 
+  -Nosso jogo busca estigar o instinto de curiosidade, disponibilizando um jogo completamente dinamico, criado para ofercer multiplos cenarios, desafios e comquistas. tudo foi planejado para manter o usuario preso a experiencia do jogo, um jogo o qual tudo esta em constante mudança, evitando o efeito de "mesmisse" que cuasaria a fuga dos clientes do jogo. 
 
 ![pong](assets/ConceptArt-1.jpg)
 ![pong](assets/ConceptArt-2.jpg)
@@ -108,16 +100,20 @@
 ### MARCELA COSTA
 **1. Quais foram os maiores desafios enfrentados durante o processo de criação?**
    
-   O maior desafio foi definir apenas uma ideia, pensamo em várias possibilidades para reinventar o Pong, mas só poderiamos realizar uma, então selecionamos o que concordamos no que seria mais interessante e chegamos no resultado final. Outro desafio que enfrentei foi me desafiar no Figma, eu nunca tinha utilizado a ferramenta e decedi me desafiar, no começo tive um pouco de dificuldade, mas no meio do processo começei a gostar bastante e consegui realizar a tarefa.
+   O maior desafio foi definir apenas uma ideia, pensamos em várias possibilidades para reinventar o Pong, mas só poderiamos realizar uma, então selecionamos o que concordamos no que seria mais interessante e chegamos no resultado final. Outro desafio que enfrentei foi me desafiar no Figma, eu nunca tinha utilizado a ferramenta e decedi me desafiar, no começo tive um pouco de dificuldade, mas no meio do processo começei a gostar bastante e consegui realizar a tarefa.
    
 **2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?**
 
    Consegui desenvolver a minha habilidade de tomada de decisão por conta do pouco tempo que tivemos para esboçar a ideia e chegar em um resultado final, também desenvolvi a minha habilidade de pesquisa ao realizar uma análise completa do Pong de acordo com MDA e aprendi a mexer e utilizar o Figma.
 
 ### ARTHUR MARQUES
-1. Quais foram os maiores desafios enfrentados durante o processo de criação?
-2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade? 
+***1. Quais foram os maiores desafios enfrentados durante o processo de criação?***
 
+  O maior desafio foi esboçar todas as ideias que tivemos em um espaço curto de papel, tinhamos muitas ideias e sempre tinha alguma linha de raciocinio que entrava em conflito com outa/outraas ja definidas, tomar frente do desenvolvimento do desemho fisico tambem mostrou como é dificil deixar um jogo pronto com apenas uma folha  como
+
+***3. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?***
+
+  Seria otimo comentar que estou indo erealizar um projeto em pouco tempo,
 ---
 
 ## 6. Referências (se houver)  
