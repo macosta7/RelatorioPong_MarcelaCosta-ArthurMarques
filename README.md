@@ -54,11 +54,16 @@
     
   -Realizamos uma alteração completa do cenário, personagem e "raquetes";
   -A antiga "bola" do jogo Pong agora é um personagem stick guy";
+  
   -O jogo possuirá apenas uma "aleta" que agora será uma cama elastica;
+  
   -O cenario agora é dinamico, de acordo com a progreçao do usuario durante na partida o persnagem passara por diversas ambientacoes caracteristicas da altura que o condiz no momento, tendo como exemplo, ao atingir 9400 m, altura padrao de voo para aeronaves, diversas aeronaves irao passar ao fundo da tela; 
+  
   -Agora teremos um sistema de conquista, ao qual funcionara de acordo com a altura maxima atingida pelo usuario, assim, diponibizando a opçao de alterar as skins do personagem, skins do "stick guy", emojis e skins para a cama elastica;
+  
   -Adicionamos os "coins", moedas que irao aparecer aleatoriamente no percorrer do jogo que contaram como pontos extra, que farao o personagem pular mais alto quando coletadas;
-  -Inimigos foram adicionados no jogo, durante a partida, inimogos como passaros, avioes, aliens (varia de acordo com a altura) irao atravessar o mapa no eixo.x em ambas as direcoes (direita e esquerda).*
+  
+  -Inimigos foram adicionados no jogo, durante a partida, inimogos como passaros, avioes, aliens (varia de acordo com a altura) irao atravessar o mapa no eixo.x em ambas as direcoes (direita e esquerda). 
     
 *- **Mudanças na Mecânica:**
     
