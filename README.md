@@ -113,9 +113,9 @@
 
 ***3. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?***
   
-  Com  certeza estou orgulhoso dos meus desenho fisicos, fiquei muito feliz ao ver que consegui desenhar bem o jogo e mostar cada detalhe sobre 
+  Com  certeza estou orgulhoso dos meus desenho fisicos, fiquei muito feliz ao ver que consegui desenhar bem o jogo e mostar cada detalhe sobre as novidades e conseguir apresenatalas para a professoa. 
 
-  Seria otimo comentar que estou indo erealizar um projeto em pouco tempo,
+ 
 ---
 
 ## 6. Referências (se houver)  
